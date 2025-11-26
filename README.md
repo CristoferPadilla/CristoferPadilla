@@ -1,11 +1,13 @@
 # HOLA! SOY CRISTOFER
 
- Mi portafolio: https://portafolio-react-black.vercel.app/
 :computer: Desarrollador jr
 
 :vulcan_salute: Soy un desarrollador que le gusta mucho hacer aplicaciones móviles en flutter y me gusta mucho usar React para web.
 
 :writing_hand: Donde sea pero con flutter
+
+ Mi portafolio: https://portafolio-react-black.vercel.app/
+
 
 ## My tools </>
 <table>
